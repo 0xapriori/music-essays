@@ -151,7 +151,6 @@ That decision has a shape. The shape is the point.
 - [The Noise Was Always There: How Industrial Sound Entered Hip-Hop and What It Revealed](./the_noise_was_always_there.md)
 - [Low End Theory: Eight Philosophies of Bass and Kick in Hip-Hop Production](./low_end_theory.md)
 
-*Companion essays in the Power Structures Revealed series:*
-- [Power Structures Revealed: Law, Lobbying, and the Rules of the Game](https://github.com/0xapriori/music-industry-report/blob/main/report-03-law-and-lobbying.md)
-- [How Major Record Labels Control and Influence the Media Ecosystem](https://github.com/0xapriori/music-industry-report/blob/main/research/label-media-control.md)
-- ["The Culture" in Hip-Hop Discourse: Authenticity, Gatekeeping, and Manufactured Consensus](https://github.com/0xapriori/music-industry-report/blob/main/research/the-culture-hip-hop-manufactured-consensus.md)
+*Companion reading in the Power Structures Revealed series (powerstructures.xyz):*
+- [Power Structures Revealed: Law, Lobbying, and the Rules of the Game](https://powerstructures.xyz/report-03.html)
+- [The full series index](https://powerstructures.xyz)
