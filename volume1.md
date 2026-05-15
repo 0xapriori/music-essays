@@ -59,52 +59,55 @@ The lists are also written assuming the reader is musically engaged. They name p
 ## Table of Contents
 
 **Part One — Blues**
-- country-blues
-- delta-blues
-- piedmont-blues
-- memphis-blues
-- chicago-blues
-- texas-blues
-- electric-blues
-- jump-blues
-- soul-blues
-- blues-rock
-- british-blues
+- [Country Blues / Pre-War Blues](#country-blues--pre-war-blues)
+- [Delta Blues](#delta-blues)
+- [Piedmont Blues](#piedmont-blues)
+- [Memphis Blues](#memphis-blues)
+- [Chicago Blues](#chicago-blues)
+- [Texas Blues](#texas-blues)
+- [Electric Blues](#electric-blues)
+- [Jump Blues](#jump-blues)
+- [Soul Blues](#soul-blues)
+- [Blues Rock](#blues-rock)
+- [British Blues](#british-blues)
 
 **Part Two — Folk**
-- anglo-american-traditional
-- british-celtic-folk
-- 1960s-folk-revival
-- singer-songwriter
-- protest-folk
-- contemporary-folk
-- folk-rock
-- anti-folk
-- freak-folk
-- indie-folk
+- [Anglo-American Traditional / Pre-War Folk](#anglo-american-traditional--pre-war-folk)
+- [British / Celtic Folk](#british--celtic-folk)
+- [1960s Folk Revival](#1960s-folk-revival)
+- [Singer-Songwriter](#singer-songwriter)
+- [Protest / Topical Folk](#protest--topical-folk)
+- [Contemporary Folk](#contemporary-folk)
+- [Folk Rock](#folk-rock)
+- [Anti-Folk](#anti-folk)
+- [Freak Folk / Wyrd Folk](#freak-folk--wyrd-folk)
+- [Indie Folk](#indie-folk)
 
 **Part Three — Country**
-- old-time-hillbilly
-- honky-tonk
-- western-swing
-- bluegrass
-- nashville-sound
-- bakersfield-sound
-- outlaw-country
-- country-rock
-- alt-country
-- country-pop
-- neotraditional-country
-- bro-country
+- [Old-Time / Hillbilly](#old-time--hillbilly)
+- [Honky Tonk](#honky-tonk)
+- [Western Swing](#western-swing)
+- [Bluegrass](#bluegrass)
+- [Nashville Sound / Countrypolitan](#nashville-sound--countrypolitan)
+- [Bakersfield Sound](#bakersfield-sound)
+- [Outlaw Country](#outlaw-country)
+- [Country Rock](#country-rock)
+- [Alt-Country / Americana](#alt-country--americana)
+- [Country Pop](#country-pop)
+- [Neotraditional Country](#neotraditional-country)
+- [Bro-Country / Modern Country](#bro-country--modern-country)
 
 **Part Four — Gospel**
-- spirituals
-- sacred-harp
-- traditional-black-gospel
-- contemporary-gospel
-- southern-gospel
-- ccm
-- christian-rock-hip-hop
+- [Spirituals](#spirituals)
+- [Sacred Harp / Shape Note](#sacred-harp--shape-note)
+- [Traditional Black Gospel](#traditional-black-gospel)
+- [Contemporary Gospel / Urban Gospel](#contemporary-gospel--urban-gospel)
+- [Southern Gospel](#southern-gospel)
+- [CCM (Contemporary Christian Music)](#ccm-contemporary-christian-music)
+- [Christian Rock / Christian Hip-Hop](#christian-rock--christian-hip-hop)
+
+**Volume Closing**
+- [Closing — The Tributaries Beyond](#closing--the-tributaries-beyond)
 
 
 ---

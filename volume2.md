@@ -45,27 +45,30 @@ A standing scope note. The "album" as a unit of analysis fits jazz unevenly. The
 ## Table of Contents
 
 **Part One — Foundations**
-- dixieland-new-orleans
-- swing-big-band
-- bebop
-- cool-jazz
-- hard-bop
+- [Dixieland / New Orleans Jazz](#dixieland--new-orleans-jazz)
+- [Swing / Big Band](#swing--big-band)
+- [Bebop](#bebop)
+- [Cool Jazz / West Coast Jazz](#cool-jazz--west-coast-jazz)
+- [Hard Bop](#hard-bop)
 
 **Part Two — Branches**
-- modal-jazz
-- free-jazz
-- soul-jazz
-- latin-jazz
-- spiritual-jazz
+- [Modal Jazz](#modal-jazz)
+- [Free Jazz](#free-jazz)
+- [Soul Jazz](#soul-jazz)
+- [Latin Jazz / Afro-Cuban Jazz](#latin-jazz--afro-cuban-jazz)
+- [Spiritual Jazz](#spiritual-jazz)
 
 **Part Three — Adjacent and Modern**
-- vocal-jazz
-- jazz-fusion
-- avant-garde-loft-jazz
-- third-stream
-- ecm-chamber-jazz
-- smooth-jazz
-- nu-jazz
+- [Vocal Jazz / Standards](#vocal-jazz--standards)
+- [Jazz Fusion / Jazz-Rock](#jazz-fusion--jazz-rock)
+- [Avant-garde / Loft Jazz](#avant-garde--loft-jazz)
+- [Third Stream](#third-stream)
+- [ECM / Chamber Jazz](#ecm--chamber-jazz)
+- [Smooth Jazz](#smooth-jazz)
+- [Nu Jazz / Future Jazz](#nu-jazz--future-jazz)
+
+**Volume Closing**
+- [Closing — From Jazz Forward](#closing--from-jazz-forward)
 
 
 ---
